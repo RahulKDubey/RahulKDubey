@@ -27,7 +27,7 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     <!-- Ethereum-related skills -->
     <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg" alt="ethereum" width="40" height="40"/> </a>
-    <a href="https://docs.soliditylang.org/en/v0.8.21/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="solidity" width="40" height="40"/> </a>
+    <a href="https://docs.soliditylang.org/en/v0.8.21/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/48161361/147373179-a1e6fd36-85ec-4ad5-bccb-9ac28a659b11.png" alt="solidity" width="40" height="40"/> </a>
     <a href="https://www.trufflesuite.com/docs/truffle/getting-started/intro-to-truffle" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/truffle/truffle-plain.svg" alt="truffle" width="40" height="40"/> </a>
     <a href="https://hardhat.org/getting-started/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" alt="hardhat" width="40" height="40"/> </a>
 
