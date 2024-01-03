@@ -27,10 +27,10 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 
     <!-- Ethereum-related skills -->
-    <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/> </a>
-    <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/soliditylang/soliditylang-icon.svg" alt="solidity" width="40" height="40"/> </a>
-    <a href="https://www.trufflesuite.com/truffle" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trufflesuite/trufflesuite-icon.svg" alt="truffle" width="40" height="40"/> </a>
-    <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hardhat/hardhat-icon.svg" alt="hardhat" width="40" height="40"/> </a>
+    [![Ethereum](https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg)](https://ethereum.org/)
+    [![Solidity](https://www.vectorlogo.zone/logos/soliditylang/soliditylang-icon.svg)](https://soliditylang.org/)
+    [![Truffle](https://www.vectorlogo.zone/logos/trufflesuite/trufflesuite-icon.svg)](https://www.trufflesuite.com/truffle)
+    [![Hardhat](https://www.vectorlogo.zone/logos/hardhat/hardhat-icon.svg)](https://hardhat.org/)
 
     <!-- Add more skills as needed -->
 
