@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love to generate new ideas.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:rahulkrdubey2828@gmail.com</h3>
 <p align="left">
 </p>
 
