@@ -29,7 +29,7 @@
     <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/soliditylang/soliditylang-icon.svg" alt="solidity" width="40" height="40"/> </a>
     <a href="https://www.trufflesuite.com/truffle" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trufflesuite/trufflesuite-icon.svg" alt="truffle" width="40" height="40"/> </a>
     <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hardhat/hardhat-icon-white.svg" alt="hardhat" width="40" height="40"/> </a>
-<!-- Add more skills as needed -->
+
  
 
 </p>
