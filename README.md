@@ -34,7 +34,7 @@
 
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkdubey" alt="Languages Used" />
 </p>
 
