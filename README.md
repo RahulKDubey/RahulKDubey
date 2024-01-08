@@ -34,7 +34,10 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkdubey&hide=html" alt="Languages Used" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/languages/?username=rahulkdubey" alt="Languages Used" />
+</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkdubey&show_icons=true&locale=en" alt="rahulkdubey" /></p>
 
